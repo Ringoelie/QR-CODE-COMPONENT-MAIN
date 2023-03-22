@@ -1,0 +1,29 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.cont {
+    background-color: white;
+    position: absolute;
+    left: 40%;
+    top: 17%;
+    width: 326px;
+    box-sizing: border-box;
+    padding: 13px;
+    border-radius: 12px;
+}
+
+.cont img {
+    width: 300px;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400,700;
+    margin-left: 7%;
+    width: 260px;
+}
